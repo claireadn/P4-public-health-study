@@ -14,7 +14,7 @@ Les données à analyser étaient les suivantes :
 Pour chacun des pays :
   * Ceux pour lesquels la proportion de personnes sous-alimentées est la plus forte en 2017,
   * Ceux qui ont le plus bénéficié d’aide depuis 2013,
-  * Ceux ayant le plus/le moins de disponibilité/habitant
+  * Ceux ayant le plus/le moins de disponibilité/habitant,
   * Toutes les infos utiles pour mettre en relief les pays qui semblent être le plus en difficulté.
   
 ## Compétences évaluées

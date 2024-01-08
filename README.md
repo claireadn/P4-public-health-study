@@ -54,12 +54,12 @@ For each country:
   * Those with the most/least availability per inhabitant,
   * All the information you need to highlight the countries that seem to be in most difficulty.
 
-## *Skills assessed*
+## Skills assessed
 
 * Manipulate DataFrames,
 * Write and present a methodology for data exploration and analysis,
 * Use specialized libraries for data processing.
   
-## *Deliverable*
+## Deliverable
 
-*The Jupyter notebook used to calculate/find all the results requested.*
+The Jupyter notebook used to calculate/find all the results requested.

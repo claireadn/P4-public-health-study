@@ -1,3 +1,5 @@
+Note: Le notebook a été mis à jour avec un code plus cohérent et moins long / The notebook has been updated with more cohesive and shorter code.
+
 # Réalisez une étude de santé publique avec Python 
 
 Projet d'étude de santé publique sur le thème de la sous-nutrition dans le monde.
